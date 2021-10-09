@@ -1,5 +1,25 @@
 {
   "poi":[
+    {
+    "image": "https://www.viajaporcolombia.com/images//recinto-manizales.jpg",
+    "name": "Recinto del Pensamiento",
+    "description": "Ubicado a 11 kilómetros de Manizales, cuenta con una extensión de 179 hectáreas. Ofrece una gran variedad de entornos naturales, como senderos, miradores, un observatorio de mariposas y un bosque orquídeas con más de 14 mil plantas.",
+    "location": "Manizales, Vía Panamericana",
+    "detail": "Hace más de 80 años este espacio fue un refugio para niños huérfanos. Actualmente es propiedad del Comité de Cafeteros de Caldas y busca ser un espacio propicio para el desarrollo y promoción de las familias cafeteras. \n\nEste espacio de 179 hectáreas es formado en su mayoría por una reserva natural. Allí se encuentran varios lugares rodeados de hermosa naturaleza.",
+    "temperature": "19°C",
+    "todo": [
+      {
+        "name": "Mirador de aves",
+        "todo": "Con 150 especies inmersas en un bosque de niebla. Destaca una variedad de colibrís.",
+        "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/40/3e/68/dsc09983-largejpg.jpg?w=1000&h=-1&s=1"
+      },
+      {
+        "name": "Senda de Oriente",
+        "todo": "Una obra de arte oriental, con un bosque miniatura de bonsáis y sakuras entregadas por Japón.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/41/52/a5/senda-de-oriente.jpg"
+      }
+    ]
+  },
   {
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cerro_Tutelar_del_Pipint%C3%A1_-_panor%C3%A1mica_de_Aguadas_02.jpg/800px-Cerro_Tutelar_del_Pipint%C3%A1_-_panor%C3%A1mica_de_Aguadas_02.jpg",
     "name": "Aguadas",
